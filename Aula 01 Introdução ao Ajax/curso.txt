@@ -1,0 +1,3 @@
+Aula 1 de ajax (javascript);
+desenvolvendo o codigo para pegare este texto
+arquivo deve esta em localhost para funcionar

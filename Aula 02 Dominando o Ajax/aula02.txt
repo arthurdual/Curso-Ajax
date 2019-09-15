@@ -1,0 +1,4 @@
+Aula 2 de ajax (javascript);
+comentando o codigo
+
+arquivo deve esta em localhost para funcionar
